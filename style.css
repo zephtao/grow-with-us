@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+body {
+    font-family: 'Orelega One', cursive;
+    background-color: #88A17B;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+a:link, a:active, a:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav a {
+    background: #4F7942;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 20px 70px;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+}
+
+.reason div{
+    font-size: 12pt;
+    text-align: left;
+    text-indent: 48px;
+}
